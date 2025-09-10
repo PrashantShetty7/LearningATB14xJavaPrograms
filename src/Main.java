@@ -3,7 +3,8 @@
 public class Main {
     public static void main(String[] args) {
      //first program to push in git
-        System.out.printf("Hello and welcome!");
+        System.out.println("Hello and welcome!");
+        //checking
 
     }
 }
