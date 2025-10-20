@@ -6,4 +6,6 @@ public class Lab058_TypeCasting {
         int a = b; // Valid Syntax -> Widening -> Implicit Casting - Automatically done.
         int a1 = (int) b; // Valid Syntax -> Widening -> Explicit Casting - not requred
     }
+
+
 }
