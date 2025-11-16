@@ -20,7 +20,8 @@ class Person
         System.out.println("Name: " + name + ",Age: " +age);
     }
 }
-public class Main{
+
+public class Problem1{
     public static void main(String[] args){
         Person p1= new Person("John",25);
         Person p2= new Person("Alice",38);
